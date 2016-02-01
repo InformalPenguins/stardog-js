@@ -1,0 +1,32 @@
+{
+  "SPRITE": {
+    "PLAYER": 9,
+    "METEOR": 8,
+    "ALIEN": 1,
+    "SHIELD": 10,
+    "FIRE": 2,
+    "TURTLE": 11,
+    "CRASH": 0,
+    "BULLET": 6,
+    "FIRE1": 4,
+    "FIRE2": 5,
+    "FIRE3": 6,
+    "SMOKE": 7,
+    "SHIP_SHIELD": 3
+  },
+  "PLAYER": {
+    "MAX_SPEED": 9
+  },
+  "ENEMY": {
+    "MIN_SPAWN_TIME": 500
+  },
+  "GAME": {
+    "PLAY": {
+      "TEXT": {
+        "align": "center",
+        "fill": "#ffffff",
+        "font": "48px Arial"
+      }
+    }
+  }
+}
